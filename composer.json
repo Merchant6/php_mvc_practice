@@ -1,0 +1,17 @@
+{
+    "name": "merchant/php_mvc",
+    "description": "A practice PHP mini framework.",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Merchant6",
+            "email": "saboormerchant6@gmail.com"
+        }
+    ],
+
+    "require": {}
+}
